@@ -1,0 +1,33 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="240" fill="#2196F3" opacity="0.1" />
+
+  <!-- Folder Shape -->
+  <path d="M410 155H261.3c-7.1 0-13.9-2.8-18.9-7.8L217.9 122.7c-5-5-11.8-7.8-18.9-7.8H102c-16.6 0-30 13.4-30 30V367c0 16.5 13.5 30 30 30h308c16.5 0 30-13.5 30-30V185c0-16.5-13.5-30-30-30z" fill="#1976D2"/>
+
+  <!-- Folder Front -->
+  <path d="M440 185H72v212c0 16.5 13.5 30 30 30h308c16.5 0 30-13.5 30-30V185z" fill="#2196F3"/>
+
+  <!-- File Icon -->
+  <g>
+    <!-- Paper -->
+    <rect x="178" y="215" width="156" height="182" rx="8" fill="white" />
+
+    <!-- Lines representing text -->
+    <rect x="202" y="257" width="108" height="8" rx="4" fill="#BBDEFB" />
+    <rect x="202" y="287" width="108" height="8" rx="4" fill="#BBDEFB" />
+    <rect x="202" y="317" width="78" height="8" rx="4" fill="#BBDEFB" />
+
+    <!-- Folded corner -->
+    <path d="M334 215h-16c-4.4 0-8 3.6-8 8v16L334 215z" fill="#BBDEFB" />
+  </g>
+
+  <!-- Share Icon -->
+  <g>
+    <circle cx="320" cy="210" r="32" fill="#FF5722" />
+    <path d="M332 202h-8v16h-8v8h16v-24z" fill="white" />
+    <path d="M308 202v8h8v16h8v-24h-16z" fill="white" />
+    <path d="M324 218l-14 14v-8h-8v16h16v-8l14 14l6-6l-20-20l-20 20l6 6l14-14v-14h6z" fill="white" />
+  </g>
+</svg>
+
