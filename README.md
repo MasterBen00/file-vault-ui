@@ -2,6 +2,14 @@
 
 A modern, secure file sharing application built with Vue 3 and Vuetify, designed for seamless document collaboration and secure file management.
 
+# 🖥️ File Vault Frontend
+
+This is the frontend UI for File Vault.
+
+## 📎 Related Repositories
+
+- 📦 [File Vault Backend](https://github.com/MasterBen00/file-vault)
+
 ## 📋 Features
 
 - **Secure File Uploads & Downloads**: Password-protected file sharing with optional expiration dates
